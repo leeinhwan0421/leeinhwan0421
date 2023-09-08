@@ -17,7 +17,6 @@
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-<img width="35" src="https://github.com/leeinhwan0421/leeinhwan0421/assets/70061182/fbabb6a7-5406-4ae3-ab2c-e5f123c53c6e"/>
 
 <h3 align="center"><b> BaekJoon </b></h3>
 </br>
