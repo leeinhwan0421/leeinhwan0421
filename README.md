@@ -23,7 +23,7 @@
   <h1><b>Repositories</b></h1>
   
   <details>
-    <summary><b>Unity Project</b></summary>
+    <summary><h3><b>Unity Project</b></h3></summary>
     <p></p>
     <p>2022년 전국기능경기대회 참가작을 리마스터하고 있습니다. 자세한 내용은 <a href="https://github.com/leeinhwan0421/Twin-Traverse">여기</a>에서 확인하세요.</p>
     <p>처음 진행한 FPS 프로젝트입니다. 자세한 내용은 <a href="https://github.com/leeinhwan0421/Lowpoly_BattleField">여기</a>에서 확인하세요.</p>
@@ -33,14 +33,14 @@
   </details>
 
   <details>
-    <summary><b>DirectX</b></summary>
+    <summary><h3><b>DirectX</b></h3></summary>
     <p></p>
     <p>2021 경기도기능경기대회 동상 수상작입니다. 자세한 내용은 <a href="https://github.com/leeinhwan0421/VIRUS_STRIKER">여기</a>에서 확인하세요.</p>
     <p>DirectX 9을 활용한 2D 개발 프레임 워크입니다. 자세한 내용은 <a href="https://github.com/leeinhwan0421/DirectX9-2D-Framework">여기</a>에서 확인하세요.</p>
   </details>
   
   <details>
-    <summary><b>Algorithm</b></summary>
+    <summary><h3><b>Algorithm</b></h3></summary>
     <p></p>
     <p>알고리즘을 공부하고 있습니다. 노션을 통해 정리하고 있습니다. <a href="https://leeinhwan.notion.site/">Notion</a> <a href="https://github.com/leeinhwan0421/CSharp_Study">Repository</a></p>
   </details>
