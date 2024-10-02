@@ -20,14 +20,14 @@
   </p>
 
   <!-- 레포지토리 섹션 -->
-  <h3><b>Repositories</b></h3>
+  <h1><b>Repositories</b></h1>
   
   <details>
     <summary><b>Unity Project</b></summary>
     <p></p>
     <p>2022년 전국기능경기대회 참가작을 리마스터하고 있습니다. 자세한 내용은 <a href="https://github.com/leeinhwan0421/Twin-Traverse">여기</a>에서 확인하세요.</p>
     <p>처음 진행한 FPS 프로젝트입니다. 자세한 내용은 <a href="https://github.com/leeinhwan0421/Lowpoly_BattleField">여기</a>에서 확인하세요.</p>
-    <p>팀 프로젝트로 제작하였던 2D 플랫포머 게임입니다. 자세한 내용은 </p> <a href="https://github.com/leeinhwan0421/samchuk_adventure">여기</a>에서 확인하세요.</p>
+    <p>팀 프로젝트로 진행한 2D 플랫포머 게임입니다. 자세한 내용은 <a href="https://github.com/leeinhwan0421/samchuk_adventure">여기</a>에서 확인하세요.</p>
     <p>2022년 전국기능경기대회 은상 수상작입니다. 자세한 내용은 <a href="https://github.com/leeinhwan0421/samchuk_double_dance">여기</a>에서 확인하세요.</p>
     <p>2022년 경기도기능경기대회 금상 수상작입니다. 자세한 내용은 <a href="https://github.com/leeinhwan0421/Corona_Striker">여기</a>에서 확인하세요.</p>
   </details>
