@@ -4,7 +4,6 @@
   <!-- 스킬 트리 -->
   <h3><b>Languages</b></h3>
   <p>
-    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   </p>
@@ -40,7 +39,7 @@
     <details>
       <summary><h3><b>Algorithm</b></h3></summary>
       <p></p>
-      <p>알고리즘을 공부하고 있습니다. 노션을 통해 정리하고 있습니다. <a href="https://leeinhwan.notion.site/">Notion</a> <a href="https://github.com/leeinhwan0421/CSharp_Study">Repository</a></p>
+      <p>학습 내용을 노션을 통해 정리하고 있습니다. <a href="https://leeinhwan.notion.site/">Notion</a> <a href="https://github.com/leeinhwan0421/CSharp_Study">Repository</a></p>
     </details>
   </details>
 </div>
