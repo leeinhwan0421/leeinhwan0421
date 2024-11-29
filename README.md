@@ -20,7 +20,7 @@
 
   <!-- 레포지토리 섹션 -->
   <details>
-    <summary><h1>Repositories</h1></summary>
+    <summary><h1>길라잡이</h1></summary>
     <details>
       <summary><h3><b>Unity</b></h3></summary>
       <p></p>
