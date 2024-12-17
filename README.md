@@ -24,7 +24,8 @@
     <details>
       <summary><h3><b>Unity</b></h3></summary>
       <p></p>
-      <p>2022년 전국기능경기대회 참가작을 리마스터하고 있습니다. 자세한 내용은 <a href="https://github.com/leeinhwan0421/Twin-Traverse">여기</a>에서 확인하세요.</p>
+      <p>3인칭 슈터 게임을 제작중에 있습니다. 추후 공유드리도록 하겠습니다.</p>
+      <p>2022년 전국기능경기대회 참가작을 리마스터한 작품입니다. 자세한 내용은 <a href="https://github.com/leeinhwan0421/Twin-Traverse">여기</a>에서 확인하세요.</p>
       <p>처음 진행한 FPS 프로젝트입니다. 자세한 내용은 <a href="https://github.com/leeinhwan0421/Lowpoly_BattleField">여기</a>에서 확인하세요.</p>
       <p>팀 프로젝트로 진행한 2D 플랫포머 게임입니다. 자세한 내용은 <a href="https://github.com/leeinhwan0421/samchuk_adventure">여기</a>에서 확인하세요.</p>
       <p>2022년 전국기능경기대회 은상 수상작입니다. 자세한 내용은 <a href="https://github.com/leeinhwan0421/samchuk_double_dance">여기</a>에서 확인하세요.</p>
